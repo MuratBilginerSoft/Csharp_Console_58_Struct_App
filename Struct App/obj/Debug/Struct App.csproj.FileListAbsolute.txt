@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Struct App\Struct App\bin\Debug\Struct App.exe.config
+C:\Users\mrt_b\source\repos\Struct App\Struct App\bin\Debug\Struct App.exe
+C:\Users\mrt_b\source\repos\Struct App\Struct App\bin\Debug\Struct App.pdb
+C:\Users\mrt_b\source\repos\Struct App\Struct App\obj\Debug\Struct App.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Struct App\Struct App\obj\Debug\Struct App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Struct App\Struct App\obj\Debug\Struct App.exe
+C:\Users\mrt_b\source\repos\Struct App\Struct App\obj\Debug\Struct App.pdb
